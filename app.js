@@ -44,6 +44,7 @@ function newGame() {
 }
 
 console.log(numeroSecreto);
+console.log("Example of the github power");
 
 /*
 const mensaje = "bienvenidos estudiantes";
